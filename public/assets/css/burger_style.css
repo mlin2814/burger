@@ -1,0 +1,46 @@
+body {
+    margin: 5px;
+    padding: 0;
+    background: #98C0C0;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: "Georgia",Times New Roman,Times,serif;
+    color: #333333;
+    text-align: center;
+}
+
+.container {
+    width: auto;
+    height: auto;
+    float: center;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px;
+}
+
+h2 {
+	text-align: center;
+}
+
+li {
+  background: #EEF6F6;
+  margin: 5px;
+  padding: 5px;
+  width: auto;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+background-color: #619696;
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
